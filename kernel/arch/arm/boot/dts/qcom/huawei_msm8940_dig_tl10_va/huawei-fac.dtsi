@@ -1,0 +1,10 @@
+/{
+		huawei_fac_info {
+		compatible = "huawei,hw_fac_info";
+		fac,product_name = "DIG-TL10";
+		fac,hardware_ver = "HL1DIEGO";
+		fac,software_ver = "DIG_TL10_VA";
+		fac,simcard_adapt = "support";
+		status = "ok";
+	};
+};
